@@ -5,7 +5,7 @@
       "is_todays_pick": false,
       "is_trending": true
     },
-    "category_id": "01",
+    "topic_id": "01",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 488,
     "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
@@ -24,7 +24,7 @@
       "is_todays_pick": false,
       "is_trending": true
     },
-    "category_id": "03",
+    "topic_id": "03",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 488,
     "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
@@ -44,7 +44,7 @@
       "is_todays_pick": false,
       "is_trending": true
     },
-    "category_id": "02",
+    "topic_id": "02",
     "rating": { "number": 4.8, "badge": "Excellent" },
     "total_view": 400,
     "title": "Tucker Carlson Swears Vladimir Putin Is Winning The War In Ukraine",
@@ -63,7 +63,7 @@
       "is_todays_pick": false,
       "is_trending": true
     },
-    "category_id": "04",
+    "topic_id": "04",
     "rating": { "number": 4.3, "badge": "Excellent" },
     "total_view": 400,
     "title": "Tucker Carlson Swears Vladimir Putin Is Winning The War In Ukraine",
@@ -83,7 +83,7 @@
       "is_todays_pick": false,
       "is_trending": false
     },
-    "category_id": "05",
+    "topic_id": "05",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 980,
     "title": "Joe Biden announces $3 billion in Ukraine weapons aid",
@@ -102,7 +102,7 @@
       "is_todays_pick": false,
       "is_trending": false
     },
-    "category_id": "06",
+    "topic_id": "06",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 980,
     "title": "Joe Biden announces $3 billion in Ukraine weapons aid",
