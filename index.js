@@ -24,6 +24,11 @@ app.get("/course/:id", (req, res) => {
   const selectedCourse = course.find((n) => n.topic_id === id);
   res.send(selectedCourse);
 });
+app.get("/enrollment/:id", (req, res) => {
+  const id = req.params.id;
+  const selectedCourse = course.find((n) => n.topic_id === id);
+  res.send(selectedCourse);
+});
 
 app.listen(port, () => {
   console.log("Mr Tech Expert Server is running on port", port);
