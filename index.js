@@ -4,7 +4,7 @@ const app = express();
 app.use(cors());
 const port = process.env.PORT || 5000;
 
-const topics = require("./data/categories.json");
+const topics = require("./data/courses.json");
 const course = require("./Data/data.json");
 
 app.get("/", (req, res) => {
@@ -33,3 +33,4 @@ app.get("/enrollment/:id", (req, res) => {
 app.listen(port, () => {
   console.log("Mr Tech Expert Server is running on port", port);
 });
+module.exports = app;
