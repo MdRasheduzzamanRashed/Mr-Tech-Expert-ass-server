@@ -1,14 +1,21 @@
 {
-  "name": "mr-tech-expert-server",
+  "name": "b610-lerning-platform-server-side-mdrasheduzzamanrashed",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "[my-framework] build --output public"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-MdRasheduzzamanRashed.git"
   },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-MdRasheduzzamanRashed/issues"
+  },
+  "homepage": "https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-MdRasheduzzamanRashed#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.18.2",

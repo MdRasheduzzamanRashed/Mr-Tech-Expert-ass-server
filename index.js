@@ -5,7 +5,7 @@ app.use(cors());
 const port = process.env.PORT || 5000;
 
 const topics = require("./data/courses.json");
-const course = require("./Data/data.json");
+const course = require("./data/data.json");
 
 app.get("/", (req, res) => {
   res.send("Mr Tech Expert API Running");
